@@ -1,0 +1,16 @@
+h1 {
+    color:brown;
+    font-weight: lighter;
+    text-align: center;
+}
+body {
+    font-family: 'Arial Black',serif;
+    font-size: large;
+}
+a {
+    color:darkorange;
+    display: block;
+}
+a:hover {
+    background-color: darkslateblue;
+}
